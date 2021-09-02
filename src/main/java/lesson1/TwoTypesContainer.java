@@ -1,6 +1,6 @@
 package main.java.lesson1;
 
-public class TwoTypesContainer <T,V>{
+public class TwoTypesContainer1 <T,V>{
     private T first;
     private V second;
 

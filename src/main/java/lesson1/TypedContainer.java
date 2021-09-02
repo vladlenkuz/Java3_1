@@ -1,6 +1,6 @@
 package main.java.lesson1;
 
-public class TypedContainer<T> {
+public class TypedContainer1<T> {
     private T obj;
 
     public TypedContainer(T obj) {

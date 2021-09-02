@@ -1,6 +1,6 @@
 package main.java.lesson1;
 
-public class TypedContainerApp {
+public class TypedContainerApp1 {
     public static void main(String[] args) {
         TypedContainer<Integer> container1 = new TypedContainer<>(42);
         TypedContainer<Integer> container2 = new TypedContainer<>(197);

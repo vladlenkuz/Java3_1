@@ -1,4 +1,4 @@
 package main.java.lesson1;
 
-public class SimpleContainerApp {
+public class SimpleContainerApp1 {
 }
